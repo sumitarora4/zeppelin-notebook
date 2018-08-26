@@ -1,2 +1,2 @@
 # zeppelin-notebook
-zeppelin notebook for practice spark and scala
+zeppelin notebook to practice spark and scala
